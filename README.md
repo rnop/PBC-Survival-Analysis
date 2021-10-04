@@ -8,7 +8,14 @@ Survival analysis is used to analyze data in which time to the event is the focu
 
 ### Survival Models
 * Kaplan-Meier Product-Limit Method
+* Log-Rank Test for Comparison of Treatment Groups
 * Cox Proportional Hazards Model
-* Mayo Clinic CPH Model
 * Random Survival Forests
-* Fast Survival SVM
+
+### Libraries
+* python 3.7+
+* numpy
+* pandas
+* matplotlib/seaborn
+* lifelines
+* scikit-survival
