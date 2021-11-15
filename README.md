@@ -1,4 +1,5 @@
 ## Survival Analysis - Primary Biliary Cirrhosis
+Tableau Visualization: https://public.tableau.com/app/profile/ronnie.nop/viz/KMSurvivalCurvesforPatientswPBC/SurvivalDashboard
  
 ### Introduction 
 Primary biliary cirrhosis (PBC) is a chronic liver disease caused by the buildup up bile, amino acids, and other substances in the bile ducts resulting in the progressive destruction of the liver. There are currently no known treatments to cure PBC, however, there are many ways to slow down its progression through treatment, surgery, and supportive care. Survival analysis offers a way to help clinicians diagnose severely diseased patients which can help decide the best appropriate treatments and plan of action to improve their survivability.
